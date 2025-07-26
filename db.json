@@ -1,0 +1,38 @@
+{
+    "users":[
+        {
+            "id":"11",
+            "username":"admin@123",
+            "password":"admin@123",
+            "role":"admin"
+        },
+        {
+            "id":"12",
+            "username":"anu@123",
+            "password":"anu@123",
+            "role":"user"
+        }
+
+    ],
+    "products":[
+       { 
+        "id":"1",
+        "name":"toy",
+        "price":"300"
+
+       },
+       { 
+        "id":"2",
+        "name":"clothing",
+        "price":"400"
+
+       },
+       { 
+        "id":"3",
+        "name":"skincare",
+        "price":"200"
+
+       }
+    ]
+    
+}
